@@ -1,6 +1,8 @@
 # fonti-web-storia-novarese
 
-Fonti accessibili via web di storia e storia dell'arte novarese
+![Panorama di Novara](https://upload.wikimedia.org/wikipedia/commons/0/04/Novara_panoramica08.jpg "Panorama di Novara")
+
+Fonti liberamente accessibili via web di storia e storia dell'arte novarese.
 
 ## Libri
 
@@ -27,4 +29,8 @@ Fonti accessibili via web di storia e storia dell'arte novarese
 | [La sicurezza antincendio degli edifici dell'800 novarese di Alessandro Antonelli - Rifunzionalizzazione di Casa Bossi a Novara](https://docplayer.it/amp/115977368-Politecnico-di-milano-la-sicurezza-antincendio-degli-edifici-dell-800-novarese-di-alessandro-antonelli.html) | Gabriele Bignoli, Carmen Falliti                                                                                                             | 2018 |
 | [La storia di Novara - Dalla preistoria ai giorni nostri](https://idoc.pub/documents/la-storia-di-novara-dalla-preistoria-ai-giorni-nostri-wl12ovd99v4j)                                                                                                                         | Silvia Giani                                                                                                                                 | 2021 |
 
+## Articoli
 
+| TITOLO                                                                                                                                                                   | AUTORE         | ANNO |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------|
+| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf) | Giuseppe Sergi | 1975 |
