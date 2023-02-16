@@ -31,17 +31,21 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 | [Consignationes beneficiorum dioecesis Novariensis factae anno MCCCXLVII tempore reverendissimi domini Guglielmi Episcopi - Volume 1](https://en.calameo.com/read/007260735d0ab55d349d1)                                   | Lino Cassani, Gottardo Mellerio, Mario  Tosi                                                                                                 | 1937 |
 | [Torri, castelli e case forti del Piemonte dal 1000 al secolo XVI - Volume 1: Il Novarese](https://idoc.pub/documents/torri-castelli-e-case-forti-del-piemonte-dal-1000-al-secolo-xvi-i-il-novarese-nigrapdf-1430rp3q0v4j) | Carlo Nigra                                                                                                                                  | 1937 | 
 | [Novara e il suo territorio](https://www.byterfly.eu/islandora/object/librib%3A511695#mode/1up)                                                                                                                            | Francesco Cognasso, Costantino Baroni, Luigi Fassò, Libero Lenti, Aldo De Maddalena, Sergio Martinelli, Mario Bonfantini                     | 1952 |
+| [Il Basso Novarese](https://www.calameo.com/books/006995946b42840b3db7a)                                                                                                                                                   | a cura di Emiliana Mongiat e Bruno Radice                                                                                                    | 1993 |
 | [Oltre la storia - 150 anni di Provincia - Un percorso indelebile al servizio del territorio](https://www.academia.edu/33315127/Oltre_la_storia.pdf)                                                                       | Sergio Monferrini                                                                                                                            | 2014 |
 | [La storia di Novara - Dalla preistoria ai giorni nostri](https://idoc.pub/documents/la-storia-di-novara-dalla-preistoria-ai-giorni-nostri-wl12ovd99v4j)                                                                   | Silvia Giani                                                                                                                                 | 2021 |
 
-## Articoli/interventi in conferenze
+## Articoli/interventi in conferenze/capitoli
 
-| TITOLO                                                                                                                                                                   | AUTORE            | ANNO | PAGINE |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|--------|
-| [Assedio di Novara (1495): documenti inediti](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                              | Antonio Rusconi   | 1884 |        |
-| [Massimiliano Sforza e la battaglia dell'Ariotta: documenti inediti](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                  | Antonio Rusconi   | 1885 |        |
-| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf) | Giuseppe Sergi    | 1975 |        |
-| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf)                                                    | Giancarlo Andenna | 2018 |        |
+| TITOLO                                                                                                                                                                    | AUTORE            | ANNO | PAGINE |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|--------|
+| [Novara](https://books.google.it/books?id=LAVTAAAAcAAJ&pg=PA86) in *Dizionario geografico-storico-statistico-commerciale degli stati di S. M. il Re di Sardegna, vol. 12* | Goffredo Casalis  | 1843 | 85-571 |
+| [Assedio di Novara (1495): documenti inediti](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                               | Antonio Rusconi   | 1884 |        |
+| [Massimiliano Sforza e la battaglia dell'Ariotta: documenti inediti](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                   | Antonio Rusconi   | 1885 |        |
+| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf)  | Giuseppe Sergi    | 1975 |        |
+| [La battaglia di Novara del 1849](https://www.calameo.com/books/00699594608932e5a7422)                                                                                    | Paolo Cirri       | 1999 |        |
+| [La piana novarese dal periodo romano al XVI secolo](https://www.calameo.com/books/0069959466e438a1d68a5)                                                                 | Dorino Tuniz      | 2003 |        |
+| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf) in *Novarien - Mezzo secolo di studi novaresi*      | Giancarlo Andenna | 2018 |        |
 
 ## Tesi di laurea
 
