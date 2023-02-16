@@ -32,7 +32,8 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 
 ## Articoli
 
-| TITOLO                                                                                                                                                                   | AUTORE            | ANNO |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|
-| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf) | Giuseppe Sergi    | 1975 |
-| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf)                                                    | Giancarlo Andenna | 2018 |
+| TITOLO                                                                                                                                                                   | AUTORE            | ANNO | PAGINE |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|--------|
+| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf) | Giuseppe Sergi    | 1975 ||
+| [Novara - Teatro Coccia](https://books.google.it/books?id=eQK2AQAAQBAJ&pg=PA55)                                                                                          | Karyl Charna Lynn, Martin Stiglio | 2005 | 55-60 |
+| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf)                                                    | Giancarlo Andenna | 2018 ||
