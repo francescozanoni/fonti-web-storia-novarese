@@ -55,3 +55,12 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 | TITOLO                                                                                                                                                                                                                                                                           | AUTORE                           | ANNO |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------|
 | [La sicurezza antincendio degli edifici dell'800 novarese di Alessandro Antonelli - Rifunzionalizzazione di Casa Bossi a Novara](https://docplayer.it/amp/115977368-Politecnico-di-milano-la-sicurezza-antincendio-degli-edifici-dell-800-novarese-di-alessandro-antonelli.html) | Gabriele Bignoli, Carmen Falliti | 2018 |
+
+## Alto Novarese
+Ameno - Armeno - Arona - Bolzano Novarese - Borgo Ticino - Briga Novarese - Castelletto sopra Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - Lesa - Massino Visconti - Meina - Miasino - Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco - Pisano - Pogno - Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
+
+## Medio Novarese
+Agrate Conturbia - Barengo - Boca - Bogogno - Borgomanero - Briona - Cavaglietto - Cavaglio d'Agogna - Cavallirio - Cressa - Cureggio - Fara Novarese - Fontaneto d'Agogna - Gattico-Veruno - Ghemme - Grignasco - Maggiora - Marano Ticino - Mezzomerico - Oleggio - Prato Sesia - Romagnano Sesia - Sizzano - Suno - Vaprio d'Agogna
+
+## Basso Novarese
+Bellinzago Novarese - Biandrate - Borgolavezzaro - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame - Casaleggio Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate - Garbagna Novarese - Granozzo con Monticello - Landiona - Mandello Vitta - Momo - Nibbiola - Novara - Recetto - Romentino - San Nazzaro Sesia - San Pietro Mosezzo - Sillavengo - Sozzago - Terdobbiate - Tornaco - Trecate - Vespolate - Vicolungo - Vinzaglio
