@@ -1,0 +1,16 @@
+# fonti-web-storia-novarese - Novara
+
+## Libri
+
+| TITOLO                                                                                                                                                                                                                     | AUTORE                                                                                                                                       | ANNO |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------|
+| [Il Duomo e le sculture del Corpo di Guardia in Novara](https://books.google.it/books?id=uSRkAAAAcAAJ)                                                                                                                     | Francesco Antonio Bianchini                                                                                                                  | 1836 |
+| [Guida di Novara e suoi uniti ecc. per l'anno bisestile 1856](https://archive.org/details/guidadinovara1856lent)                                                                                                           | Giuseppe Lenta                                                                                                                               | 1855 | 
+| [Novara e sua Diocesi - Guida per l'anno 1858](https://archive.org/details/guidadinovara1858lent)                                                                                                                          | Giuseppe Lenta                                                                                                                               | 1857 |
+| [Guida di Novara coi suoi Sobborghi ed Aggregate](https://archive.org/details/guidadinovara186869lent)                                                                                                                     | Giuseppe Lenta                                                                                                                               | 1869 |
+
+## Tesi di laurea
+
+| TITOLO                                                                                                                                                                                                                                                                           | AUTORE                           | ANNO |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------|
+| [La sicurezza antincendio degli edifici dell'800 novarese di Alessandro Antonelli - Rifunzionalizzazione di Casa Bossi a Novara](https://docplayer.it/amp/115977368-Politecnico-di-milano-la-sicurezza-antincendio-degli-edifici-dell-800-novarese-di-alessandro-antonelli.html) | Gabriele Bignoli, Carmen Falliti | 2018 |

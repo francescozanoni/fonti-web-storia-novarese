@@ -13,14 +13,10 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 | [Saggio de primi abitatori del Novarese](https://books.google.it/books?id=prpYAAAAcAAJ)                                                                                                                                    | Michelangelo Leonardi                                                                                                                        | 1775 |
 | [Le cose rimarchevoli della città di Novara - Precedute da compendio storico](https://books.google.it/books?id=uWYpAAAAYAAJ)                                                                                               | Francesco Antonio Bianchini                                                                                                                  | 1828 |
 | [Degli statuti novaresi - Commentario](https://books.google.it/books?id=DJQiWM0_WhsC)                                                                                                                                      | Giacomo Giovanetti                                                                                                                           | 1830 |
-| [Il Duomo e le sculture del Corpo di Guardia in Novara](https://books.google.it/books?id=uSRkAAAAcAAJ)                                                                                                                     | Francesco Antonio Bianchini                                                                                                                  | 1836 |
 | [Storia della città e diocesi di Novara](https://books.google.it/books?id=WMQAAAAAcAAJ)                                                                                                                                    | Carlo Morbio                                                                                                                                 | 1841 |
-| [Guida di Novara e suoi uniti ecc. per l'anno bisestile 1856](https://archive.org/details/guidadinovara1856lent)                                                                                                           | Giuseppe Lenta                                                                                                                               | 1855 | 
-| [Novara e sua Diocesi - Guida per l'anno 1858](https://archive.org/details/guidadinovara1858lent)                                                                                                                          | Giuseppe Lenta                                                                                                                               | 1857 |
 | [La Riviera di S. Giulio, Orta e Gozzano: trattenimento storico](https://books.google.it/books?id=a2k5AAAAcAAJ)                                                                                                            | Angelo Fara                                                                                                                                  | 1861 |
 | [La battaglia di Novara (1849): notizie storiche](https://books.google.it/books?id=j8oNAAAAYAAJ)                                                                                                                           | Felice Venosta                                                                                                                               | 1864 |
 | [I reggitori di Novara](https://books.google.it/books?id=dLxYAAAAcAAJ)                                                                                                                                                     | Giuseppe Garone                                                                                                                              | 1865 |
-| [Guida di Novara coi suoi Sobborghi ed Aggregate](https://archive.org/details/guidadinovara186869lent)                                                                                                                     | Giuseppe Lenta                                                                                                                               | 1869 |
 | [Storia della Vallesesia e dell'Alto Novarese - Parte 1](https://books.google.it/books?id=LfDwV_6dVcMC)                                                                                                                    | Federico Tonetti                                                                                                                             | 1875 |
 | [Le origini novaresi](https://books.google.it/books?id=pIN2oAEACAAJ)                                                                                                                                                       | Antonio Rusconi                                                                                                                              | 1875 |
 | [Monografie novaresi](https://books.google.it/books?id=957-Q_dlfaQC)                                                                                                                                                       | Antonio Rusconi, Carlo Morbio, Pietro Caire, Giuseppe Fassò, Pietro Zambelli, Carlo Negroni, Giorgio Imazio, Carlo Cerruti, Raffaele Tarella | 1877 |
@@ -50,17 +46,24 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 | [La piana novarese dal periodo romano al XVI secolo](https://www.calameo.com/books/0069959466e438a1d68a5)                                                                 | Dorino Tuniz      | 2003 |        |
 | [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf) in *Novarien - Mezzo secolo di studi novaresi*      | Giancarlo Andenna | 2018 |        |
 
-## Tesi di laurea
+## Fonti specifiche per comune
 
-| TITOLO                                                                                                                                                                                                                                                                           | AUTORE                           | ANNO |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------|
-| [La sicurezza antincendio degli edifici dell'800 novarese di Alessandro Antonelli - Rifunzionalizzazione di Casa Bossi a Novara](https://docplayer.it/amp/115977368-Politecnico-di-milano-la-sicurezza-antincendio-degli-edifici-dell-800-novarese-di-alessandro-antonelli.html) | Gabriele Bignoli, Carmen Falliti | 2018 |
+### Alto Novarese
 
-## Alto Novarese
-Ameno - Armeno - Arona - Bolzano Novarese - Borgo Ticino - Briga Novarese - Castelletto sopra Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - Lesa - Massino Visconti - Meina - Miasino - Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco - Pisano - Pogno - Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
+Ameno - Armeno - Arona - Bolzano Novarese - Borgo Ticino - Briga Novarese - Castelletto sopra Ticino - Colazza -
+Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - Lesa - Massino Visconti - Meina - Miasino -
+Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco - Pisano - Pogno - Pombia - San Maurizio
+d'Opaglio - Soriso - Varallo Pombia
 
-## Medio Novarese
-Agrate Conturbia - Barengo - Boca - Bogogno - Borgomanero - Briona - Cavaglietto - Cavaglio d'Agogna - Cavallirio - Cressa - Cureggio - Fara Novarese - Fontaneto d'Agogna - Gattico-Veruno - Ghemme - Grignasco - Maggiora - Marano Ticino - Mezzomerico - Oleggio - Prato Sesia - Romagnano Sesia - Sizzano - Suno - Vaprio d'Agogna
+### Medio Novarese
 
-## Basso Novarese
-Bellinzago Novarese - Biandrate - Borgolavezzaro - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame - Casaleggio Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate - Garbagna Novarese - Granozzo con Monticello - Landiona - Mandello Vitta - Momo - Nibbiola - Novara - Recetto - Romentino - San Nazzaro Sesia - San Pietro Mosezzo - Sillavengo - Sozzago - Terdobbiate - Tornaco - Trecate - Vespolate - Vicolungo - Vinzaglio
+Agrate Conturbia - Barengo - Boca - Bogogno - [Borgomanero](Borgomanero.md) - Briona - Cavaglietto - Cavaglio d'Agogna -
+Cavallirio - Cressa - Cureggio - Fara Novarese - Fontaneto d'Agogna - Gattico-Veruno - Ghemme - Grignasco - Maggiora -
+Marano Ticino - Mezzomerico - Oleggio - Prato Sesia - Romagnano Sesia - Sizzano - Suno - Vaprio d'Agogna
+
+### Basso Novarese
+
+Bellinzago Novarese - Biandrate - Borgolavezzaro - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame - Casaleggio -
+Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate - Garbagna Novarese - Granozzo con
+Monticello - Landiona - Mandello Vitta - Momo - Nibbiola - [Novara](Novara.md) - Recetto - Romentino - San Nazzaro
+Sesia - San Pietro Mosezzo - Sillavengo - Sozzago - Terdobbiate - Tornaco - Trecate - Vespolate - Vicolungo - Vinzaglio
