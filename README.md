@@ -63,7 +63,8 @@ Marano Ticino - Mezzomerico - Oleggio - Prato Sesia - Romagnano Sesia - Sizzano 
 
 ### Basso Novarese
 
-Bellinzago Novarese - Biandrate - Borgolavezzaro - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame - Casaleggio -
-Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate - Garbagna Novarese - Granozzo con
-Monticello - Landiona - Mandello Vitta - Momo - Nibbiola - [Novara](Novara.md) - Recetto - Romentino - San Nazzaro
-Sesia - San Pietro Mosezzo - Sillavengo - Sozzago - Terdobbiate - Tornaco - Trecate - Vespolate - Vicolungo - Vinzaglio
+Bellinzago Novarese - Biandrate - [Borgolavezzaro](Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano Sesia -
+Casalbeltrame - Casaleggio - Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano -
+Galliate - [Garbagna Novarese](Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello Vitta -
+Momo - [Nibbiola](Nibbiola.md) - [Novara](Novara.md) - Recetto - Romentino - San Nazzaro Sesia - San Pietro Mosezzo -
+Sillavengo - Sozzago - Terdobbiate - Tornaco - Trecate - [Vespolate](Vespolate.md) - Vicolungo - Vinzaglio
