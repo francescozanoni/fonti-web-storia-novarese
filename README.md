@@ -38,15 +38,18 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 
 ## Articoli/interventi in conferenze/capitoli
 
-| TITOLO                                                                                                                                                                    | AUTORE            | ANNO | PAGINE |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|--------|
-| [Novara](https://books.google.it/books?id=LAVTAAAAcAAJ&pg=PA86) in *Dizionario geografico-storico-statistico-commerciale degli stati di S. M. il Re di Sardegna, vol. 12* | Goffredo Casalis  | 1843 | 85-571 |
-| [Assedio di Novara (1495): documenti inediti](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                               | Antonio Rusconi   | 1884 |        |
-| [Massimiliano Sforza e la battaglia dell'Ariotta: documenti inediti](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                   | Antonio Rusconi   | 1885 |        |
-| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf)  | Giuseppe Sergi    | 1975 |        |
-| [La battaglia di Novara del 1849](https://www.calameo.com/books/00699594608932e5a7422)                                                                                    | Paolo Cirri       | 1999 |        |
-| [La piana novarese dal periodo romano al XVI secolo](https://www.calameo.com/books/0069959466e438a1d68a5)                                                                 | Dorino Tuniz      | 2003 |        |
-| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf) in *Novarien - Mezzo secolo di studi novaresi*      | Giancarlo Andenna | 2018 |        |
+| TITOLO                                                                                                                                                                     | AUTORE                  | ANNO | PAGINE  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------|---------|
+| [Novara](https://books.google.it/books?id=LAVTAAAAcAAJ&pg=PA86) in *Dizionario geografico-storico-statistico-commerciale degli stati di S. M. il Re di Sardegna, vol. 12*  | Goffredo Casalis        | 1843 | 85-571  |
+| [Divisione di Novara](https://www.google.it/books/edition/Notizie_topografiche_e_statistiche_sugli/w5XfETjf2m0C) in *Notizie topografiche e statistiche sugli stati Sardi* | G. Luigi de Bartolomeis | 1843 | 659-691 |
+| [Assedio di Novara (1495)](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                                                   | Antonio Rusconi         | 1884 |         |
+| [Massimiliano Sforza e la battaglia dell'Ariotta](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                                       | Antonio Rusconi         | 1885 |         |
+| [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf)   | Giuseppe Sergi          | 1975 |         |
+| [È tempo di fare la storia dell'agricoltura novarese](http://www.ssno.it/doc/ssn_ssn_Stoppa_AgricolturaNovarese.pdf) in *Novara - Notiziario economico*                    | Angelo Luigi Stoppa     | 1979 |         |
+| [La battaglia di Novara del 1849](https://www.calameo.com/books/00699594608932e5a7422)                                                                                     | Paolo Cirri             | 1999 |         |
+| [I borghi nuovi come fulcri dell'espansione commerciale urbana: il caso di Novara (secc. XII-XIII)](http://www.rmoa.unina.it/1667/1/RM-Montanari-Villenuove.PDF)           | Mirella Montanari       | 2003 | 119-133 |
+| [La piana novarese dal periodo romano al XVI secolo](https://www.calameo.com/books/0069959466e438a1d68a5)                                                                  | Dorino Tuniz            | 2003 |         |
+| [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf) in *Novarien - Mezzo secolo di studi novaresi*       | Giancarlo Andenna       | 2018 |         |
 
 ## Fonti specifiche per comune
 
