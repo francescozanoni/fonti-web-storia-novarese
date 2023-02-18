@@ -1,4 +1,4 @@
-# fonti-web-storia-novarese - Borgomanero
+# Fonti web di storia novarese: Borgomanero
 
 ## Libri
 
