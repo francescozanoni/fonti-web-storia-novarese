@@ -43,6 +43,7 @@ Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------|---------|
 | [Novara](https://books.google.it/books?id=LAVTAAAAcAAJ&pg=PA86) in *Dizionario geografico-storico-statistico-commerciale degli stati di S. M. il Re di Sardegna, vol. 12*  | Goffredo Casalis        | 1843 | 85-571  |
 | [Divisione di Novara](https://www.google.it/books/edition/Notizie_topografiche_e_statistiche_sugli/w5XfETjf2m0C) in *Notizie topografiche e statistiche sugli stati Sardi* | G. Luigi de Bartolomeis | 1843 | 659-691 |
+| [D'un'iscrizione celtica trovata nel Novarese](https://books.google.it/books?id=keoWjPn8RkAC) in *Rivista Contemporanea Naz. Ital.* | Giovanni Flechia | 1864 | 
 | [Assedio di Novara (1495)](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                                                   | Antonio Rusconi         | 1884 |         |
 | [Massimiliano Sforza e la battaglia dell'Ariotta](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                                       | Antonio Rusconi         | 1885 |         |
 | [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf)   | Giuseppe Sergi          | 1975 |         |
