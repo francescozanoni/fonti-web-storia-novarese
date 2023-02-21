@@ -56,6 +56,12 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 | [La piana novarese dal periodo romano al XVI secolo](https://www.calameo.com/books/0069959466e438a1d68a5)                                                                  | Dorino Tuniz            | 2003 |         |
 | [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf) in *Novarien - Mezzo secolo di studi novaresi*       | Giancarlo Andenna       | 2018 |         |
 
+## Siti web
+
+| TITOLO                                                                                                                                                                     | AUTORE                  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| [La battaglia di Novara: Lumellogno, 16 luglio 1922](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=985) | Simone Balocco, Paola Maggiora |
+
 ## Fonti specifiche per comune
 
 ### Alto Novarese
