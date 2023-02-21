@@ -2,9 +2,10 @@
 
 ![Panorama di Novara](https://upload.wikimedia.org/wikipedia/commons/0/04/Novara_panoramica08.jpg "Panorama di Novara")
 
-Fonti di storia e storia dell'arte novarese, **liberamente ed interamente** accessibili sul web.
+Fonti di storia e storia dell'arte novarese, **liberamente e interamente** accessibili sul web.
 
-Le fonti sono organizzate per ambito: in questa pagina quelle relative al Novarese nel suo complesso, nelle pagine raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comuni (se disponibili).
+Le fonti sono organizzate per ambito: in questa pagina quelle relative al Novarese nel suo complesso, nelle pagine
+raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comuni (se disponibili).
 
 ## Libri
 
@@ -16,7 +17,7 @@ Le fonti sono organizzate per ambito: in questa pagina quelle relative al Novare
 | [Le cose rimarchevoli della città di Novara - Precedute da compendio storico](https://books.google.it/books?id=uWYpAAAAYAAJ)                                                                                               | Francesco Antonio Bianchini                                                                                                                  | 1828      |
 | [Degli statuti novaresi - Commentario](https://books.google.it/books?id=DJQiWM0_WhsC)                                                                                                                                      | Giacomo Giovanetti                                                                                                                           | 1830      |
 | [Storia della città e diocesi di Novara](https://books.google.it/books?id=WMQAAAAAcAAJ)                                                                                                                                    | Carlo Morbio                                                                                                                                 | 1841      |
-| [Storia di Val d'Ossola](https://books.google.it/books?id=EB4GFtQwbZkC) | Francesco Scaciga della Silva | 1842 |
+| [Storia di Val d'Ossola](https://books.google.it/books?id=EB4GFtQwbZkC)                                                                                                                                                    | Francesco Scaciga della Silva                                                                                                                | 1842      |
 | [La Riviera di S. Giulio, Orta e Gozzano: trattenimento storico](https://books.google.it/books?id=a2k5AAAAcAAJ)                                                                                                            | Angelo Fara                                                                                                                                  | 1861      |
 | [La battaglia di Novara (1849): notizie storiche](https://books.google.it/books?id=j8oNAAAAYAAJ)                                                                                                                           | Felice Venosta                                                                                                                               | 1864      |
 | [I reggitori di Novara](https://books.google.it/books?id=dLxYAAAAcAAJ)                                                                                                                                                     | Giuseppe Garone                                                                                                                              | 1865      |
@@ -45,7 +46,7 @@ Le fonti sono organizzate per ambito: in questa pagina quelle relative al Novare
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------|---------|
 | [Novara](https://books.google.it/books?id=LAVTAAAAcAAJ&pg=PA86) in *Dizionario geografico-storico-statistico-commerciale degli stati di S. M. il Re di Sardegna, vol. 12*  | Goffredo Casalis        | 1843 | 85-571  |
 | [Divisione di Novara](https://www.google.it/books/edition/Notizie_topografiche_e_statistiche_sugli/w5XfETjf2m0C) in *Notizie topografiche e statistiche sugli stati Sardi* | G. Luigi de Bartolomeis | 1843 | 659-691 |
-| [D'un'iscrizione celtica trovata nel Novarese](https://books.google.it/books?id=keoWjPn8RkAC) in *Rivista Contemporanea Naz. Ital.* | Giovanni Flechia | 1864 | 
+| [D'un'iscrizione celtica trovata nel Novarese](https://books.google.it/books?id=keoWjPn8RkAC) in *Rivista Contemporanea Naz. Ital.*                                        | Giovanni Flechia        | 1864 |
 | [Assedio di Novara (1495)](https://babel.hathitrust.org/cgi/pt?id=uiuc.99186885212205899&view=1up&seq=4)                                                                   | Antonio Rusconi         | 1884 |         |
 | [Massimiliano Sforza e la battaglia dell'Ariotta](http://www.ssno.it/BSPNo/2006_Rusconi_Ariotta.pdf)                                                                       | Antonio Rusconi         | 1885 |         |
 | [Movimento signorile e affermazione ecclesiastica nel contesto distrettuale di Pombia e Novara fra X e XI secolo](https://www.mgh-bibliothek.de/dokumente/a/a083862.pdf)   | Giuseppe Sergi          | 1975 |         |
@@ -73,9 +74,10 @@ d'Agogna
 
 ### Basso Novarese
 
-[Bellinzago Novarese](Basso_Novarese/Bellinzago_Novarese.md) - Biandrate - [Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano
-Sesia - Casalbeltrame - Casaleggio - Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano -
-Galliate - [Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello
-Vitta - Momo - [Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San
-Nazzaro Sesia - San Pietro Mosezzo - Sillavengo - Sozzago - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
+[Bellinzago Novarese](Basso_Novarese/Bellinzago_Novarese.md) - Biandrate -
+[Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame -
+Casaleggio - Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
+[Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello Vitta - Momo -
+[Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San Nazzaro Sesia -
+San Pietro Mosezzo - Sillavengo - Sozzago - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
 [Tornaco](Basso_Novarese/Tornaco.md) - Trecate - [Vespolate](Basso_Novarese/Vespolate.md) - Vicolungo - Vinzaglio
