@@ -2,7 +2,9 @@
 
 ![Panorama di Novara](https://upload.wikimedia.org/wikipedia/commons/0/04/Novara_panoramica08.jpg "Panorama di Novara")
 
-Fonti di storia e storia dell'arte novarese, liberamente accessibili sul web.
+Fonti di storia e storia dell'arte novarese, **liberamente ed interamente** accessibili sul web.
+
+Le fonti sono organizzate per ambito: in questa pagina quelle relative al Novarese nel suo complesso, nelle pagine raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comuni (se disponibili).
 
 ## Libri
 
@@ -71,7 +73,7 @@ d'Agogna
 
 ### Basso Novarese
 
-Bellinzago Novarese - Biandrate - [Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano
+[Bellinzago Novarese](Basso_Novarese/Bellinzago_Novarese.md) - Biandrate - [Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano
 Sesia - Casalbeltrame - Casaleggio - Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano -
 Galliate - [Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello
 Vitta - Momo - [Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San
