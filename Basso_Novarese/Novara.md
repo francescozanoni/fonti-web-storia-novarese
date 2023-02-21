@@ -16,3 +16,10 @@
 | TITOLO                                                                                                                                                                                                                                                                           | AUTORE                           | ANNO |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------|
 | [La sicurezza antincendio degli edifici dell'800 novarese di Alessandro Antonelli - Rifunzionalizzazione di Casa Bossi a Novara](https://docplayer.it/amp/115977368-Politecnico-di-milano-la-sicurezza-antincendio-degli-edifici-dell-800-novarese-di-alessandro-antonelli.html) | Gabriele Bignoli, Carmen Falliti | 2018 |
+
+## Siti
+
+| TITOLO                                                  | AUTORE                                                     | NOTE                                                                                                              |
+|---------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [www.veveri.it](http://www.veveri.it/)                  | Livio G. Rossetti                                          | Link sulla sinistra: *Storia di Veveri*, *Rogge e canali*, *Cascine veveresi*, *S. Maiolo*, *Giochi di una volta* |
+| [Monumentale Novara](https://www.monumentalenovara.it/) | Camillo Balossini, Francesca Bergamaschi, Emanuela Fortuna | Link in cima: *I novaresi illustri ed i loro sepolcri monumentali*                                                |
