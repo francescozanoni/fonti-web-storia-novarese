@@ -61,6 +61,8 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 | TITOLO                                                                                                                                                                     | AUTORE                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | [La battaglia di Novara: Lumellogno, 16 luglio 1922](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=985) | Simone Balocco, Paola Maggiora |
+| [Novara dalla caduta del fascismo alla Liberazione](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=933) | Simone Balocco, Paola Maggiora | 
+| [Piero Fornara, il volto della Resistenza novarese](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=982)| Simone Balocco, Paola Maggiora |
 
 ## Fonti specifiche per comune
 
