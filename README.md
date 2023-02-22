@@ -58,11 +58,13 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 
 ## Siti web
 
-| TITOLO                                                                                                                                                                     | AUTORE                  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| [La battaglia di Novara: Lumellogno, 16 luglio 1922](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=985) | Simone Balocco, Paola Maggiora |
-| [Novara dalla caduta del fascismo alla Liberazione](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=933) | Simone Balocco, Paola Maggiora | 
-| [Piero Fornara, il volto della Resistenza novarese](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=982)| Simone Balocco, Paola Maggiora |
+| TITOLO                                                                                                                               | AUTORE                         | NOTE                                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------|
+| [La battaglia di Novara: Lumellogno, 16 luglio 1922](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=985) su *Tutto storia* | Simone Balocco, Paola Maggiora |                                                                                    |
+| [Novara dalla caduta del fascismo alla Liberazione](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=933) su *Tutto storia*  | Simone Balocco, Paola Maggiora |                                                                                    |
+| [Piero Fornara, il volto della Resistenza novarese](http://www.tuttostoria.net/tutto-storia-autori.aspx?code=982) su *Tutto storia*  | Simone Balocco, Paola Maggiora |                                                                                    |
+| [novartestoria ~ Arte, storia, curiosità novaresi](https://novartestoria.wordpress.com/)                                             |                                | Link sulla sinistra: *la mia Novara*, *Provincia di Novara*, *Storia e arte sacra* |
+| [Provincia di Novara (NO)](http://archeocarta.org/provincia-di-novara/) su *Archeocarta*                                             |                                |                                                                                    |
 
 ## Fonti specifiche per comune
 
