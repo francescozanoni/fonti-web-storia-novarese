@@ -11,6 +11,14 @@
 | [Guida di Novara coi suoi Sobborghi ed Aggregate](https://archive.org/details/guidadinovara186869lent)           | Giuseppe Lenta              | 1869 |
 | [Olengo di Novara nella sua storia](https://www.calameo.com/books/007260735f30534a1e774)                         | Ernesto Colli, Gino Giarda  | 1973 |
 
+
+## Articoli/interventi in conferenze/capitoli
+
+| TITOLO                                                                                                                                                                     | AUTORE                  | ANNO | PAGINE  |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------|---------|
+| [Gaudenzio Ferrari e l'ancona di San Gaudenzio in Novara](http://emeroteca.braidense.it/ricerche/sfoglia_articolo_ricerca.php?IDPRO=EVA&IDTestata=47&CodScheda=134&CodVolume=2061&CodFascicolo=10305&CodArticolo=200389&TXT_titolo=&cond_titolo=AND&int_titolo=&TXT_autore=Antonio%20Massara&cond_autore=AND&int_autore=&CodTitleSearch=Tutte__0&da_anno=&a_anno=&PS=1&PR=25&PB=1&RisSel=1) in *La lettura, fasc. 9*  | Antonio Massara         | 1903 | 304-312 |
+
+
 ## Tesi di laurea
 
 | TITOLO                                                                                                                                                                                                                                                                           | AUTORE                           | ANNO |
