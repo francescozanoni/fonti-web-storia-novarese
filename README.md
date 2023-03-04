@@ -86,7 +86,7 @@ d'Agogna
 
 [Bellinzago Novarese](Basso_Novarese/Bellinzago_Novarese.md) - Biandrate -
 [Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - Caltignaga - Cameri - Carpignano Sesia - Casalbeltrame -
-Casaleggio - Novara - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
+Casaleggio - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
 [Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello Vitta - Momo -
 [Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San Nazzaro Sesia -
 San Pietro Mosezzo - Sillavengo - Sozzago - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
