@@ -89,5 +89,5 @@ d'Agogna
 Casaleggio - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
 [Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello Vitta - Momo -
 [Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San Nazzaro Sesia -
-San Pietro Mosezzo - Sillavengo - Sozzago - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
+San Pietro Mosezzo - Sillavengo - [Sozzago](Bassa_Novarese/Sozzago.md) - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
 [Tornaco](Basso_Novarese/Tornaco.md) - [Trecate](Basso_Novarese/Trecate.md) - [Vespolate](Basso_Novarese/Vespolate.md) - Vicolungo - Vinzaglio
