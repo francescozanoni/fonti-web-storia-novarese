@@ -11,6 +11,6 @@
 
 ## Siti web
 
-| TITOLO                                                                                                                               | AUTORE                         | NOTE                                                                               |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------------------|
-| [Arona nel web](https://www.aronanelweb.it) | Emanuele Sandon, Fabrizio Sandon e altri | Menù *Arona* e *La città*; menù *Contatti -> Copyright e Disclaimer* per referenze bibliografiche                                                                               |
+| TITOLO                                      | AUTORE                                   | NOTE                                                                                              |
+|---------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------|
+| [Arona nel web](https://www.aronanelweb.it) | Emanuele Sandon, Fabrizio Sandon e altri | Menù *Arona* e *La città*; menù *Contatti -> Copyright e Disclaimer* per referenze bibliografiche |

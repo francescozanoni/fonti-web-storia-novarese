@@ -71,9 +71,9 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 ### Alto Novarese
 
 Ameno - Armeno - [Arona](Alto_Novarese/Arona.md) - Bolzano Novarese - Borgo Ticino - Briga Novarese - Castelletto sopra
-Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - [Lesa](Alto_Novarese/Lesa.md) - Massino Visconti -
-Meina - Miasino - Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco - Pisano - Pogno -
-Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
+Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - [Lesa](Alto_Novarese/Lesa.md) -
+Massino Visconti - Meina - Miasino - Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco -
+Pisano - Pogno - Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
 
 ### Medio Novarese
 
@@ -85,9 +85,10 @@ d'Agogna
 ### Basso Novarese
 
 [Bellinzago Novarese](Basso_Novarese/Bellinzago_Novarese.md) - Biandrate -
-[Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - [Caltignaga](Basso_Novarese/Caltignaga.md) - Cameri - Carpignano Sesia - Casalbeltrame -
-Casaleggio - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
+[Borgolavezzaro](Basso_Novarese/Borgolavezzaro.md) - [Caltignaga](Basso_Novarese/Caltignaga.md) - Cameri - Carpignano
+Sesia - Casalbeltrame - Casaleggio - Casalino - Casalvolone - Castellazzo Novarese - Cerano - Galliate -
 [Garbagna Novarese](Basso_Novarese/Garbagna_Novarese.md) - Granozzo con Monticello - Landiona - Mandello Vitta - Momo -
 [Nibbiola](Basso_Novarese/Nibbiola.md) - [Novara](Basso_Novarese/Novara.md) - Recetto - Romentino - San Nazzaro Sesia -
 San Pietro Mosezzo - Sillavengo - [Sozzago](Basso_Novarese/Sozzago.md) - [Terdobbiate](Basso_Novarese/Terdobbiate.md) -
-[Tornaco](Basso_Novarese/Tornaco.md) - [Trecate](Basso_Novarese/Trecate.md) - [Vespolate](Basso_Novarese/Vespolate.md) - Vicolungo - Vinzaglio
+[Tornaco](Basso_Novarese/Tornaco.md) - [Trecate](Basso_Novarese/Trecate.md) - [Vespolate](Basso_Novarese/Vespolate.md) -
+Vicolungo - Vinzaglio
