@@ -71,7 +71,7 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 ### Alto Novarese
 
 Ameno - Armeno - [Arona](Alto_Novarese/Arona.md) - Bolzano Novarese - Borgo Ticino - Briga Novarese - Castelletto sopra
-Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - Lesa - Massino Visconti -
+Ticino - Colazza - Comignago - Divignano - Dormelletto - Gargallo - Gozzano - Invorio - [Lesa](Alto_Novarese/Lesa.md) - Massino Visconti -
 Meina - Miasino - Nebbiuno - Oleggio Castello - Orta San Giulio - Paruzzaro - Pella - Pettenasco - Pisano - Pogno -
 Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
 
