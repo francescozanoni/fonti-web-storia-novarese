@@ -10,7 +10,7 @@
 
 ## Articoli/interventi in conferenze/capitoli
 
-| TITOLO                                                                                                                                                       | AUTORE        | ANNO | PAGINE |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------|--------|
-| [Garbagna, Nibbiola, Vespolate, Borgolavezzaro - Spunti di storia per le scuole medie - Le mie memorie](https://www.calameo.com/books/007260735094c86774af5) | Ernesto Colli | 1978 | 29-56  |
-| [Vespolate Mergozzo Nibbiola](https://www.calameo.com/books/007260735e38dc0d3948d)                                                                           | Ernesto Colli | 1985 | 63-93  |
+| TITOLO   | OPERA/RIVISTA                                                                                                                                                | AUTORE        | ANNO | PAGINE |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------|--------|
+| Nibbiola | [Garbagna, Nibbiola, Vespolate, Borgolavezzaro - Spunti di storia per le scuole medie - Le mie memorie](https://www.calameo.com/books/007260735094c86774af5) | Ernesto Colli | 1978 | 29-56  |
+| Nibbiola | [Vespolate Mergozzo Nibbiola](https://www.calameo.com/books/007260735e38dc0d3948d)                                                                           | Ernesto Colli | 1985 | 63-93  |
