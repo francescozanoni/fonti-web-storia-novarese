@@ -4,6 +4,7 @@
 
 | TITOLO                                                                                                           | AUTORE                      | ANNO |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------|------|
+| [Dell'unica e costantemente unica chiesa cattedrale di Novara riconosciuta nel suo duomo](https://books.google.it/books/about/Dell_unica_e_costantemente_unica_chiesa.html?id=LKddAAAAcAAJ) | Francesco Gemelli | 1798 |
 | [Il Duomo e le sculture del Corpo di Guardia in Novara](https://books.google.it/books?id=uSRkAAAAcAAJ)           | Francesco Antonio Bianchini | 1836 |
 | [Guida di Novara e suoi uniti ecc. per l'anno bisestile 1856](https://archive.org/details/guidadinovara1856lent) | Giuseppe Lenta              | 1855 | 
 | [Novara e sua Diocesi - Guida per l'anno 1858](https://archive.org/details/guidadinovara1858lent)                | Giuseppe Lenta              | 1857 |
