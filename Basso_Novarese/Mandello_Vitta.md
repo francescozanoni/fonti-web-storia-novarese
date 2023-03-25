@@ -2,6 +2,6 @@
 
 ## Siti
 
-| TITOLO                                                                                | AUTORE            |
-|---------------------------------------------------------------------------------------|-------------------|
+| TITOLO                                                                                                       | AUTORE                   |
+|--------------------------------------------------------------------------------------------------------------|--------------------------|
 | [Storia](https://www.comune.mandellovitta.no.it/it-it/vivere-il-comune/storia) su *Comune di Mandello Vitta* | Comune di Mandello Vitta |
