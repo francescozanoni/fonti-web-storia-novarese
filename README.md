@@ -72,7 +72,7 @@ raggiungibili dai collegamenti a fondo pagina quelle specifiche dei singoli comu
 | [I difficili primi anni del Canale Cavour - Da "pianta senza rami" a motore di sviluppo agricolo e industriale](https://www.estsesia.it/wp-content/uploads/2017/07/EstSesia_115_web.pdf)                | Est Sesia, n. 115                                                                                    | Sergio Baratti                | 2010 | 5-30                                                                                             |
 | [Economie locali. Il caso di cinque comunità del novarese in età moderna](https://www.storiaeconomica.it/pdf/2007.3.333.pdf)                                                                            | Storia economica, n. 3                                                                               | Emanuele C. Colombo           | 2007 | 333-372                                                                                          |
 | [Temi e studiosi](https://interlinea.mediabiblos.it/pdf_incipit/interlinea/mezzo-secolo-di-studi-novaresi-434680.pdf)                                                                                   | Novarien - Mezzo secolo di studi novaresi, n. 47                                                     | Giancarlo Andenna             | 2018 |                                                                                                  |
-| [Formazione, strutture e processi di riconoscimento giuridico delle signorie rurali tra Lombardia e Piemonte orientale (secoli XI-XII)](https://archive.org/details/BiblioFBK-ISIG-Q44/page/123) | Strutture e trasformazioni della signoria rurale nei secoli X-XIII | Giancarlo Andenna | 1996 | 123-167 |
+| [Formazione, strutture e processi di riconoscimento giuridico delle signorie rurali tra Lombardia e Piemonte orientale (secoli XI-XII)](https://archive.org/details/BiblioFBK-ISIG-Q44/page/123)        | Strutture e trasformazioni della signoria rurale nei secoli X-XIII                                   | Giancarlo Andenna             | 1996 | 123-167                                                                                          |
 
 ## Siti web
 
@@ -96,9 +96,9 @@ Pisano - Pogno - Pombia - San Maurizio d'Opaglio - Soriso - Varallo Pombia
 ### Medio Novarese
 
 Agrate Conturbia - Barengo - Boca - Bogogno - [Borgomanero](Medio_Novarese/Borgomanero.md) - Briona - Cavaglietto -
-Cavaglio d'Agogna - Cavallirio - Cressa - Cureggio - Fara Novarese - Fontaneto d'Agogna - Gattico-Veruno - Ghemme -
-Grignasco - Maggiora - Marano Ticino - Mezzomerico - Oleggio - Prato Sesia - Romagnano Sesia - Sizzano - Suno - Vaprio
-d'Agogna
+Cavaglio d'Agogna - Cavallirio - Cressa - Cureggio - [Fara Novarese](Medio_Novarese/Fara_Novarese.md) - Fontaneto
+d'Agogna - Gattico-Veruno - Ghemme - Grignasco - Maggiora - Marano Ticino - Mezzomerico - Oleggio - Prato Sesia -
+Romagnano Sesia - Sizzano - Suno - Vaprio d'Agogna
 
 ### Basso Novarese
 
