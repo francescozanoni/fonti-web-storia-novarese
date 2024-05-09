@@ -1,0 +1,7 @@
+# Fonti web di storia novarese: San Pietro Mosezzo
+
+## Articoli
+
+| TITOLO                                                                                                                                                                                                                                                                                                                       | OPERA/RIVISTA                                                                        | AUTORE                      | ANNO | PAGINE  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------|------|---------|
+| [Sistemi insediativi e gestione delle acque nella Bassa Novarese: un fontanile dell'età del Bronzo dal sito di San Pietro Mosezzo](https://www.academia.edu/114168089/G_Baratti_M_Rapi_Sistemi_insediativi_e_gestione_delle_acque_nella_Bassa_Novarese_un_fontanile_dell_et%C3%A0_del_Bronzo_dal_sito_di_San_Pietro_Mosezzo) | Sibrium Atti, 1 - Dall'acqua alla terra: cambiamenti nell'occupazione del territorio | Giorgio Baratti, Marta Rapi | 2023 | 153-195 |
