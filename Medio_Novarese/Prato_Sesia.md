@@ -1,0 +1,7 @@
+# Fonti web di storia novarese: Prato Sesia
+
+## Articoli/interventi in conferenze/capitoli
+
+| TITOLO                                                                                                                                                                                                                                                                                                                                                    | OPERA/RIVISTA                  | AUTORE               | ANNO | PAGINE  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|----------------------|------|---------|
+| [Il Castello di Sopramonte e i villaggi scomparsi di Carogna e Sopramonte. Contributi allo studio dell'insediamento medievale nel territorio di Prato Sesia](https://www.academia.edu/41039962/Il_Castello_di_Sopramonte_e_i_villaggi_scomparsi_di_Carogna_e_Sopramonte_contributi_allo_studio_dell_insediamento_medievale_nel_territorio_di_Prato_Sesia) | Antiquarium Medionovarese, III | Alessandro D'Alfonso | 2009 | 135-154 |
